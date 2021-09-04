@@ -1,4 +1,4 @@
-package cjkdemo
+package say
 
 import (
     "fmt"
